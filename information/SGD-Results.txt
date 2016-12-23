@@ -1,0 +1,12 @@
+MovieLens
+	Final Training-RMSE 0.92526
+	Final Testing-RMSE 0.93854
+Book-Crossing
+	Final Training-RMSE 1.19649
+	Final Testing-RMSE 3.25352
+Jester
+	Final Training-RMSE 4.49222
+	Final Testing-RMSE 6.25455
+
+
+run-time 3.917367

@@ -1,0 +1,16 @@
+- Recommender
+    - Cosine Similarity
+    - Matrix factorization models
+        - Stochastic Gradient Descent
+        - Alternating Least Squares
+    - Deep Learning Model
+        - Restricted Boltzmann Machine
+
+- Data
+    - MovieLens
+        - 100k
+        - 1 Million
+    - Book-Crossing
+    - Jester
+
+

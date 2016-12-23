@@ -1,0 +1,18 @@
+MovieLens
+	The number of users 6040
+	The number of items 3952
+	The number of ratings 1000209
+	The sparsity level 95.8097794393651
+	The density level 4.190220560634899
+Book-Crossing
+	The number of users 10000
+	The number of items 4000
+	The number of ratings 15704
+	The sparsity level 99.96074
+	The density level 0.03925999999999874
+Jester
+	The number of users 3500
+	The number of items 100
+	The number of ratings 253231
+	The sparsity level 27.64828571428572
+	The density level 72.35171428571428
